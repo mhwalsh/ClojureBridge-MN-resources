@@ -4,6 +4,7 @@
 ####March 6th: Install Fest - Pizza and beverages will be provided
 * Arrive at Keller Hall ROOM Blah at 5:30
 * Stay until all students have finished installing and are ready to go for Saturday AM
+
 ####March 7th: Workshop - Breakfast, lunch and snacks will be provided
 * 8-8:30AM: Arrive with the students and have some breakfast and coffee
 * 9-9:30AM: Welcome and introductions - who you are, what you do and why you are here.
@@ -28,16 +29,16 @@ Install Fest: RM#
 ###Code of Conduct
 + http://bridgefoundry.org/code-of-conduct/
 + http://bridgefoundry.org/code-of-conduct/anti-harrassment-policy.html
++ http://bridgefoundry.org/code-of-conduct/gray-area.html
 
 ####Why this matters?
 
 ####Real Examples/Point to Highlight
 + Please do not hand your CV to attendees
-+ Grabbing keyboards - you know you will want to, don't do it. Ask first. Times it is ok: the student's environment is completely borked or something is going wrong with their install fest or helping them by directly typing on their keyboard is outside of the scope of the goals of the workshop.
-+ Do not ask anyone out on a date.
-+ Gray area - If you are not sure if something is appropriate behavior, it probably isn’t.
-+ Gray area - "If you didn’t realize that your behavior would have a negative impact, that is your responsibility. Problems happen when we presume that our way of being is ok with everyone, when we assume that our way of thinking or behaving is the norm. This is particularly problematic when the other person is less empowered or is a member of a minority group."
-
++ Clear Examples - Grabbing keyboards - you know you will want to, don't do it. Ask first. Times it is ok: the student's environment is completely borked or something is going wrong with their install fest or helping them by directly typing on their keyboard is outside of the scope of the goals of the workshop.
++ Clear Examples - ```Do not ask anyone out on a date.```
++ Gray area - ```If you are not sure if something is appropriate behavior, it probably isn’t.```
++ Gray area - ```If you didn’t realize that your behavior would have a negative impact, that is your responsibility. Problems happen when we presume that our way of being is ok with everyone, when we assume that our way of thinking or behaving is the norm. This is particularly problematic when the other person is less empowered or is a member of a minority group.```
 
 
 ####Questions?
