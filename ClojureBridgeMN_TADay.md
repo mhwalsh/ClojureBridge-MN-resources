@@ -79,6 +79,8 @@ https://github.com/clojurebridge-minneapolis/track1-chatter
 
 #####Track Two
 https://github.com/clojurebridge-minneapolis/track2-surviving
+
 https://github.com/clojurebridge-minneapolis/track2-threading
+
 https://github.com/clojurebridge-minneapolis/track2-explorations
 
