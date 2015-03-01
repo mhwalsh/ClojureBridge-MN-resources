@@ -22,24 +22,32 @@ Track One: RM# 3-180
 Track Two: RM# 3-115
 Install Fest: RM# 3-180
 
-| TA              | Track       | Install Fest? |
-| ----------------| ----------- | ------------- |
-| Andrew Northrop | Track One   | Maybe         |
-| Anthony Juckel  | Track One   | Maybe         |
-| Brian Maddy     | Track One   | Maybe         |
-| Chris Koehnen   | Track One   | Maybe         |
-| James Current   | Track One   | Maybe         |
-| Joel Knighton   | Track One   | Maybe         |
-| Nate Young      | Track One   | Maybe         |
-| Peter Schwarz   | Track One   | Maybe         |
-| Ryan Mulcahy    | Track One   | Maybe         |
-| Benoit Fleury   | Track Two   | Maybe         |
-| Brian Dawn      | Track Two   | Maybe         |
-| Melissa Voegeli | Track Two   | Maybe         |
-| Ted Cushman     | Track Two   | Maybe         |
-| Tom Marble      | Track Two   | Maybe         |
+| TA              | Track           | Install Fest  |
+| ----------------| ----------------| ------------- |
+| Andrew Northrop | Track One       | Yes           |
+| Anthony Juckel  | Track One       | Maybe         |
+| Brian Maddy     | Track One       | Yes           |
+| Chris Koehnen   | Track One       | Yes           |
+| Greg Allen      | Half Day (One)  | Yes           |
+| James Current   | Track One       | Yes           |
+| Joel Knighton   | Track One       | No            |
+| Nate Young      | Track One       | Maybe         |
+| Peter Schwarz   | Track One       | Maybe         |
+| Ryan Mulcahy    | Track One       | Maybe         |
+| Benoit Fleury   | Track Two       | Yes           |
+| Brian Dawn      | Track Two       | Yes           |
+| Melissa Voegeli | Track Two       | Maybe         |
+| Ted Cushman     | Track Two       | Yes           |
+| Antoinette Smith| Volunteer       | Yes           |
+| Elena Machkasova| Volunteer       | Maybe         |
+| Emily Wagoner   | Volunteer       | Maybe         |
+| John Lundberg   | Volunteer       | Yes           |
 
 _Track two is not yet full, so we may shuffle people around on the day of. Please look for any way to help out._
+
+Track One has 12 Mac and 3 Windows machines. Track two has 2 Mac, 2 Windows and 1 Linux.
+
+_Dietary Restrictions?_ The first night, likely will not accommodate people. But lunch Saturday should. Let me know the restrictions and we will see what we can do... 
 
 ###Code of Conduct
 + http://bridgefoundry.org/code-of-conduct/
@@ -64,18 +72,27 @@ This will be a safe place for them to email and ask technical questions. The cod
 + Let the student completely finish their question, don't anticipate and don't interrupt.
 + Recognize that sometimes people talk through something aloud and it is not really a question. It may not need a response.
 + We will have paper and pens and there will also be white boards available. Prefer drawing, to directly typing on someone's keyboard.
-+ We are not assigning TAs to students. We want to create an environment where the students help each other and self organize and TAs are available to answer questions that arise. Be available and appear available, so you are not intimidating to approach.
++ We are not assigning TAs to students. We want to create an environment where the students help each other and self organize and TAs are available to answer questions that arise. Be available and appear available, so you are not intimidating to approach. UPDATE: Ryan asked a great question today about the idea of "self organizing". It is likely that some students will feel nervous at the beginning of the workshop, although we want to have the students self organize and help each other, it is very likely that the TAs and volunteers will have to set the mood in the room. It is ok to welcome students over, start the curriculum with them and sit with them etc.
 + http://teaching.uncc.edu/learning-resources/articles-books/best-practice/teaching-research-assistants/survival-guide-new-tas#part3
 + http://www.countablethoughts.com/documents/TAAdvice.pdf
 + http://www.brighthub.com/education/postgraduate/articles/106582.aspx
 + We are all at different levels with Clojure and teaching. We need to be as aware of each other as we are of the students. Be proactive about helping your fellow TAs and be open to somebody helping you. At the same time, respect and do not undercut other TAs.
++ There is no pressure for the students to finish. There will be many opportunities for them to finish. Hack nights or a future bridge. 
++ "In Jokes" - Be careful with tech jokes that only TAs in the room know. It is fine to say them, but be ready to explain, so everyone can laugh.
++ Careful with the use of jargon. Sometimes, you might not even know you are doing it. If you here a fellow TA using some term that the student likely doesn't know, ask a clarifying question, "What does X mean?", even if you already know. This is a great way to help students feel more comfortable asking questions and creates a space to explain the meaning of the word.
++ Approach students from the front, don't pop up behind them or hover behind them to try and look at their screen. 
++ If you know a student already knows an answer to another student's question, bring them in to help explain. This brings students together, gives them confidence and an opportunity to better understand the concepts they are learning.
+
 
 ####Tracks
+Please take notes of the rough spots and give us feedback in any form, pull requests are especially welcome. We hope to have a short debrief or retrospective after the event to go over some of this.
+
 #####Install Fest
 https://github.com/clojurebridge-minneapolis/curriculum/blob/master/outline/setup.md
 
 #####Track One
 https://github.com/clojurebridge-minneapolis/track1-chatter
++ There is a pretty extensive git tutorial in track one. All students will be making commits as they go, so remember that you will have ```git diff``` as a tool.
 
 #####Track Two
 https://github.com/clojurebridge-minneapolis/track2-surviving
