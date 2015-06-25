@@ -1,6 +1,5 @@
-MarchQ1
-##Meeting Notes
-###Schedule for Ju
+##Meeting Notes MarchQ1 
+###Schedule for March
 ####March 6th: Install Fest - Pizza and beverages will be provided
 * Arrive at Keller Hall RM# 3-180 at 5:30
     - http://www1.umn.edu/twincities/maps/KHKH/
