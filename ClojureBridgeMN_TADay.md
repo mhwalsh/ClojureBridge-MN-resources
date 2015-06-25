@@ -31,22 +31,20 @@ This will be a safe place for them to email and ask technical questions. The cod
 + Careful with the use of jargon. Sometimes, you might not even know you are doing it. If you here a fellow TA using some term that the student likely doesn't know, ask a clarifying question, "What does X mean?", even if you already know. This is a great way to help students feel more comfortable asking questions and creates a space to explain the meaning of the word.
 + Approach students from the front, don't pop up behind them or hover behind them to try and look at their screen. 
 + If you know a student already knows an answer to another student's question, bring them in to help explain. This brings students together, gives them confidence and an opportunity to better understand the concepts they are learning.
-+ UPDATE: Please be concious of use of pronouns. Pronouns will be printed on badges, but if you are not sure default to 'they'.
++ UPDATE: Please be conscious of use of pronouns. Pronouns will be printed on badges, but if you are not sure default to 'they'.
 
 ####Tracks
 Please take notes of the rough spots and give us feedback in any form, pull requests are especially welcome. We hope to have a short debrief or retrospective after the event to go over some of this.
 
 #####Install Fest
-https://github.com/clojurebridge-minneapolis/curriculum/blob/master/outline/setup.md
+https://github.com/clojurebridge-minneapolis/installfest
++ This is now the landing page for all the curriculum. 
 
 #####Track One
 https://github.com/clojurebridge-minneapolis/track1-chatter
 + There is a pretty extensive git tutorial in track one. All students will be making commits as they go, so remember that you will have ```git diff``` as a tool.
 
 #####Track Two
-https://github.com/clojurebridge-minneapolis/track2-surviving
-
-https://github.com/clojurebridge-minneapolis/track2-threading
-
-https://github.com/clojurebridge-minneapolis/track2-explorations
+https://github.com/clojurebridge-minneapolis/clojure-koans
+https://github.com/clojurebridge-minneapolis/track2-functional
 

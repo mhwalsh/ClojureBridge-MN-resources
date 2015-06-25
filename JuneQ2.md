@@ -1,5 +1,3 @@
-JuneQ2
-
 ###Schedule for June 26/27
 ####June 26: Install Fest - Pizza and beverages will be provided
 * Arrive at Clockwork at 5:30
